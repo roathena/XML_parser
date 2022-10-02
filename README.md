@@ -3,7 +3,7 @@
 - This is an XML Parser code which parses a specific type of XML given in the assignment.
 
 ## Pipeline:
-- This follows a pipeline of
+- The pipeline follows the following steps:<br>
 (For steps 1 - 4 refer `main.ipynb`, for step 5 refer `s3.ipynb`):
   1. Downloading the XML from the [link](https://registers.esma.europa.eu/solr/esma_registers_firds_files/select?q=*&fq=publication_date:%5B2021-01-17T00:00:00Z+TO+2021-01-19T23:59:59Z%5D&wt=xml&indent=true&start=0&rows=100). <br>
   Functions `get_xml_file()` and `get_data_file()` handle the steps 1 - 3. <br>
