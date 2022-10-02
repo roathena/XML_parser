@@ -34,4 +34,4 @@ The ` test/ ` folder contains three unit test cases:
 
 
 
-*Thankyou for the oppurtunity, I thoroughly enjoyed and learned new strategies while doing the assignment. The data folder (which contains the XML files) has not been uploaded due to github's file size issues, but have been uploaded in internshala, zipped with the other files.*
+*Thankyou for the opportunity, I thoroughly enjoyed and learned new strategies while doing the assignment. The data folder (which contains the XML files) has not been uploaded due to github's file size issues, but have been uploaded in internshala, zipped with the other files.*
