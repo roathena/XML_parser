@@ -31,7 +31,3 @@ The ` test/ ` folder contains three unit test cases:
  1. **Unit Test 1**: Testing done for the retrieval of parent XML file and extraction of the zip file from the given url (refer ` unit_test_1.ipynb `)
  2. **Unit Test 2**: Testing done for parsing and cleaning the extracted XML file (ie) simplifying tag names (refer ` unit_test_2.ipynb `)
  3. **Unit Test 3**: Testing done for parsing of required tags and attributes from the XML file and converting it into a CSV format. (refer ` unit_test_3.ipynb `)
-
-
-
-*Thankyou for the opportunity, I thoroughly enjoyed and learned new strategies while doing the assignment. The data folder (which contains the XML files) has not been uploaded due to github's file size issues, but have been uploaded in internshala, zipped with the other files.*
